@@ -123,5 +123,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-LicPlateImages/*
-DocsAndPresentation/*
+LicPlateImages/*.png
+LicPlateImages/*.jpg
+DocsAndPresentation/
